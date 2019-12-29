@@ -1,0 +1,250 @@
+.topcontainer{
+  background-color:#f3f3f3;
+
+}
+body{
+margin:0 auto 0 auto;
+text-align: center;
+font-family: 'merriweather',serif;
+
+}
+hr{
+  border: dotted #e5e4cc 6px;
+  border-bottom: none;
+  margin:100px auto;
+  width:15%;
+}
+h1{
+margin:0 auto 0 auto;
+  width:10%;
+font-family: 'Oswald', sans-serif;
+font-size: 3.5rem;
+color:#fa163f
+
+
+}
+
+h2{
+  color:#eb4d55;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 2.1rem;
+  text-align: center;
+}
+h3
+{
+  color:#11999E;
+  font-family: 'Patrick Hand', cursive;
+}
+a{
+  color:#11999E;
+  font-family: 'Itim', cursive;
+}
+.developer{
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  color:#66BFBF;
+}
+.forest{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+}
+.campingtent{
+  height: 200px;
+  width: 200px;
+}
+.dinosaur{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  margin-left: 250px;
+}
+.dinosaur1{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  margin-left: 550px;
+}
+.logs{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  margin-top: 300px;
+  margin-left: 1020px;
+}
+.logs1{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  margin-top: 300px;
+  margin-left: -200px;
+}
+.parrot{
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  margin-bottom: 500px;
+  margin-left: 300px;
+}
+.parrot1{
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  top: 470px;
+  left:300px;
+}
+.bush{
+  position: absolute;
+  margin-left: 60%;
+  height: 200px;
+  width: 200px;
+
+}
+.grass
+{
+  margin-top: 150px;
+}
+.panda{
+  height: 300px;
+  width: 300px;
+  margin-right: 800px;
+}
+.lights{
+  position: absolute;
+  height: 300px;
+  width: 300px;
+  right:600px;
+  top:-60px;
+}
+.stone{
+  height: 200px;
+  width: 200px;
+  position:absolute;
+  margin-top: 350px;
+  left: 650px;
+}
+.skill-row{
+  width:70%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  font-family: 'Grand Hotel', cursive;
+  font-size: 30px;
+}
+.skills{
+  width:70%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  font-family: 'Grand Hotel', cursive;
+  font-size: 30px;
+}
+.middle-container{
+  font-family: 'Grand Hotel', cursive;
+font-size: 30px;
+
+}
+.paraof1{
+  width: 30%;
+  margin: auto;
+}
+.skillimg{
+  width:30%;
+  float:left;
+  margin-right: 30px;
+}
+.skill2img{
+  width:30%;
+  float:right;
+  margin-left: 30px;
+}
+.bottom-container{
+  background-color: #a4d4ae;
+  height:200px;
+
+
+}
+.footerlink1{
+display: inline-block;
+position:relative;
+  margin-top: 50px;
+  text-decoration: none;
+  color:red;
+}
+.footerlink1 {
+	box-shadow:inset 0 0 15px 3px #cc66ca;
+	background:linear-gradient(to bottom, #f229f2 5%, #dbb8d4 100%);
+	background-color:#f229f2;
+	border-radius:17px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#fafafa;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 13px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #b853b8;
+}
+.footerlink1:hover {
+	background:linear-gradient(to bottom, #dbb8d4 5%, #f229f2 100%);
+	background-color:#dbb8d4;
+}
+.footerlink1:active {
+	position:relative;
+	top:1px;
+}
+.footerlink2 {
+	box-shadow:inset 0 0 15px 3px #587096;
+	background:linear-gradient(to bottom, #6599eb 5%, #2d4573 100%);
+	background-color:#6599eb;
+	border-radius:17px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 13px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #000000;
+}
+.footerlink2:hover {
+	background:linear-gradient(to bottom, #2d4573 5%, #6599eb 100%);
+	background-color:#2d4573;
+}
+.footerlink2:active {
+	position:relative;
+	top:1px;
+}
+.footerlink3{
+display: inline-block;
+position:relative;
+  margin-top: 50px;
+  text-decoration: none;
+  color:red;
+}
+.myButton {
+	box-shadow: 0 10px 14px -7px #3dc21b;
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+  margin-bottom:  50px ;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
